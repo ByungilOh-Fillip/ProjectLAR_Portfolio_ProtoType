@@ -34,5 +34,5 @@ export default defineConfig({
   assetsInclude: ['**/*.svg', '**/*.csv'],
 
   // GitHub Pages 배포를 위한 경로 설정 (양쪽 슬래시 필수)
-  base: '/<ProjectLAR_Portfolio_ProtoType>/', 
+  base: '/ProjectLAR_Portfolio_ProtoType/',
 })
